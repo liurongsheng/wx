@@ -1,5 +1,6 @@
 import { View, Text } from '@tarojs/components'
 import { useLoad } from '@tarojs/taro'
+import 'taro-ui/dist/style/index.scss'
 import './index.less'
 
 export default function Index() {
